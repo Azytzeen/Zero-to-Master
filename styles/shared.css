@@ -1,7 +1,7 @@
 body {
   text-align: center;
   background-color: rgb(233, 215, 207);
-  
+  margin: 50px;
 }
 h1 {
   font-family: 'Oswald', sans-serif;
@@ -11,23 +11,18 @@ h1 {
 }
 p {
   font-family: 'Fira Sans', sans-serif;
-  text-align: center;
-  color: rgb(62, 36, 124);
-  font-weight: bold;
-  
+  font-size: 24px;
 }
 a {
-  padding: 12px 0;
   font-family: 'Fira Sans', sans-serif;
   color: red;
   text-decoration: none;
   font-weight: bold;
-  display: inline-block;
 }
 a:hover {
   text-decoration: underline;
 }
-#dailly-challenge{
+#dailly-challenge {
   color: rgb(170, 96, 83);
   font-weight: bold;
   font-size: 52px;
